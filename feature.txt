@@ -1,2 +1,5 @@
 My name is Sharan
 Creating a new branch feature and adding some text
+Created a branch fix 
+Making changes to the feature.txt file while on fix branch
+Making changes to feature.txt from main branch
