@@ -2,3 +2,4 @@ My name is Sharan
 Creating a new branch feature and adding some text
 Editing file to create conflict
 adding feature
+Creating conflict
