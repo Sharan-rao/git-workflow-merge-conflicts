@@ -4,3 +4,5 @@ Editing file to create conflict
 adding new feature on main
 adding feature
 Creating feature
+adding feature
+Creating conflict
